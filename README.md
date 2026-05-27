@@ -4,7 +4,17 @@ Incremental lessons learning JavaScript (Node.js).
 
 ## Prerequisites
 
-- Node.js (`node --version`)
+- Node.js (LTS recommended)
+
+### Install
+
+- macOS (Homebrew): `brew install node`
+- Debian / Ubuntu: `sudo apt install nodejs npm`
+- Other: see [nodejs.org](https://nodejs.org/) or use [nvm](https://github.com/nvm-sh/nvm)
+
+### Verify
+
+    node --version
 
 ## Lessons
 
