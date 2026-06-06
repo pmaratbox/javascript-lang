@@ -1,0 +1,8 @@
+{
+  "name": "reactive-frameworks",
+  "private": true,
+  "description": "Shared RxJS dependency for the 26-reactive-frameworks lessons",
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  }
+}
