@@ -554,6 +554,7 @@ Incremental lessons learning JavaScript (Node.js).
 
 ### Validation & Schemas
 - [0485-valid-input](32-validation/0485-valid-input/) — a valid object passes validation
+- [0486-required-field](32-validation/0486-required-field/) — a required field is missing
 
 ## How to run
 
