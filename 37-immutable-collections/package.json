@@ -1,0 +1,1 @@
+{ "name":"js-immutable","private":true,"type":"module","dependencies":{"immutable":"^5.0.3"} }
