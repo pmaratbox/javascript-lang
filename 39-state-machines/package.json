@@ -1,0 +1,1 @@
+{ "name":"js-statemachines","private":true,"type":"module","dependencies":{"xstate":"^5.18.2"} }
