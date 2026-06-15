@@ -1,0 +1,1 @@
+{ "name":"js-cli-args","private":true,"type":"module","dependencies":{"commander":"^12.1.0"} }
