@@ -588,6 +588,7 @@ Incremental lessons learning JavaScript (Node.js).
 
 ### Property-Based Testing
 - [0513-first-property](35-property-testing/0513-first-property/) — a property over generated lists
+- [0514-integer-property](35-property-testing/0514-integer-property/) — a property over generated integers
 
 ## How to run
 
