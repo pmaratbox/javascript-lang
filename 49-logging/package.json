@@ -1,0 +1,1 @@
+{ "name": "logging", "private": true, "type": "module", "dependencies": { "pino": "^9.5.0" } }
