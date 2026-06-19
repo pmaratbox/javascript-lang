@@ -1,0 +1,1 @@
+{ "name": "caching", "private": true, "type": "module", "dependencies": { "lru-cache": "^11.0.2" } }
