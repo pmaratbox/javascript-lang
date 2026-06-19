@@ -1,0 +1,1 @@
+{ "name": "config-lessons", "private": true, "dependencies": { "config": "^3.3.12" } }
