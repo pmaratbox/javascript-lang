@@ -696,6 +696,7 @@ Incremental lessons learning JavaScript (Node.js).
 
 ### Markdown
 - [0599-md-heading](46-markdown/0599-md-heading/) — render a Markdown heading
+- [0600-md-bold](46-markdown/0600-md-bold/) — render bold (strong) text
 
 ## How to run
 
