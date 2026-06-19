@@ -1,0 +1,1 @@
+{ "name": "dependency-injection", "private": true, "type": "module", "dependencies": { "awilix": "^12.0.4" } }
