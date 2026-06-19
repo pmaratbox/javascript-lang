@@ -1,0 +1,1 @@
+{ "name": "resilience", "private": true, "type": "module", "dependencies": { "p-retry": "^6.2.1" } }
