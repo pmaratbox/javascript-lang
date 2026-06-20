@@ -810,6 +810,7 @@ Incremental lessons learning JavaScript (Node.js).
 
 ### Terminal & ANSI
 - [0691-ansi-red](57-terminal-ansi/0691-ansi-red/) — color text red (ANSI 31)
+- [0692-ansi-green](57-terminal-ansi/0692-ansi-green/) — color text green (ANSI 32)
 
 ## How to run
 
