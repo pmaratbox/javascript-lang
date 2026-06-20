@@ -1,0 +1,1 @@
+{ "name": "diffing", "private": true, "type": "module", "dependencies": { "diff": "^7.0.0" } }
