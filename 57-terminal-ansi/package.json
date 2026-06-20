@@ -1,0 +1,1 @@
+{ "name": "terminal-ansi", "private": true, "type": "module", "dependencies": { "chalk": "^5.3.0" } }
