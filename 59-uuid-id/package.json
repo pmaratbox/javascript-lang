@@ -1,0 +1,1 @@
+{ "name": "uuid-id", "private": true, "type": "module", "dependencies": { "uuid": "^11.0.3" } }
